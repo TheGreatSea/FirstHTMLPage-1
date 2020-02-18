@@ -18,4 +18,7 @@
     <li>
         git push -u origin master
     </li>
+    <li>
+        git clone url-to-github
+    </li>
 </ol>
